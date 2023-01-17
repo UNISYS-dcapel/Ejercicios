@@ -9,6 +9,16 @@ public class Ejercicio01 {
         double presupuesto = 12.5;
         float longitud = 12.68F;
         var suma = gasol + marianico;
-        System.out.println(suma);
+        System.out.println("La suma total es: "+suma);
+        if (independencia){
+            System.out.println("Verdadero");
+        }else {
+            System.out.println("Falso");
+        }
+        var resultado = switch (suma){
+            case 32,28 -> "superior";
+            case 30 -> "igual";
+            default -> "otra cosa";
+        };
     }
 }
