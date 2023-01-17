@@ -15,10 +15,11 @@ public class Ejercicio01 {
         }else {
             System.out.println("Falso");
         }
-        var resultado = switch (suma){
+        var resultado = switch (marianico){
             case 32,28 -> "superior";
-            case 30 -> "igual";
+            case 12 -> "igual";
             default -> "otra cosa";
         };
+        System.out.println(resultado);
     }
 }
