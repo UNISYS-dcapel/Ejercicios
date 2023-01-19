@@ -4,17 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89dd1244-ede1-46be-b6b4-465d4dfce9b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="89dd1244-ede1-46be-b6b4-465d4dfce9b9" name="Changes" comment="Mas ejercicios">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/Clase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/Currito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/Estatica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/Jefe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/Programa1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/ProgramaEmpleados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/Vuelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/VueloApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/Ejercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/unisys/ejercicios/Ejercicio01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,15 +52,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Ejercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.unisys.ejercicios.Ejercicio01" />
+}</component>
+  <component name="RunManager" selected="Application.ProgramaEmpleados">
+    <configuration name="PerroLombokApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unisys.ejercicios.PerroLombokApp" />
+      <module name="variables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unisys.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unisys.ejercicios.Programa" />
+      <module name="variables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unisys.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unisys.ejercicios.Programa1" />
+      <module name="variables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unisys.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaEmpleados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unisys.ejercicios.ProgramaEmpleados" />
+      <module name="variables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unisys.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VueloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unisys.ejercicios.VueloApp" />
       <module name="variables" />
       <extension name="coverage">
         <pattern>
@@ -61,7 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ejercicio01" />
+        <item itemvalue="Application.ProgramaEmpleados" />
+        <item itemvalue="Application.VueloApp" />
+        <item itemvalue="Application.Programa1" />
+        <item itemvalue="Application.PerroLombokApp" />
+        <item itemvalue="Application.Programa" />
       </list>
     </recent_temporary>
   </component>
@@ -74,6 +147,49 @@
       <option name="presentableId" value="Default" />
       <updated>1673964569826</updated>
     </task>
+    <task id="LOCAL-00001" summary="Cambio">
+      <created>1673966153111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673966153111</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ejercicio 2">
+      <created>1673972303578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673972303578</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ejercicio 3 y 4">
+      <created>1674055521852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674055521852</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ejercicio 3 y 4">
+      <created>1674062975802</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674062975803</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mas ejercicios">
+      <created>1674141077217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674141077217</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cambio" />
+    <MESSAGE value="ejercicio 2" />
+    <MESSAGE value="ejercicio 3 y 4" />
+    <MESSAGE value="Mas ejercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mas ejercicios" />
   </component>
 </project>
